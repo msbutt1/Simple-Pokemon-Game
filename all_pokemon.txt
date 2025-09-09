@@ -1,0 +1,802 @@
+Name|Attack|Defense|Health|Move1|Move2|Move3|Move4
+Bulbasaur|49|49|45|Vine Whip:45|Energy Ball:90|Ice Beam:90|Solar Beam:120
+Ivysaur|62|63|60|Vine Whip:45|Energy Ball:90|Thunderbolt:90|Solar Beam:120
+Venusaur|100|123|80|Razor Leaf:55|Energy Ball:90|Ice Beam:90|Solar Beam:120
+Charmander|52|43|39|Ember:40|Flame Wheel:60|Thunderbolt:90|Fire Blast:110
+Charmeleon|64|58|58|Flame Wheel:60|Thunderbolt:90|Fire Blast:110|Surf:90
+Charizard|104|78|78|Flame Wheel:60|Ice Beam:90|Fire Blast:110|Surf:90
+Squirtle|48|65|44|Water Gun:40|Surf:90|Energy Ball:90|Hydro Pump:110
+Wartortle|63|80|59|Bubble Beam:65|Slash:70|Hydro Pump:110|Surf:90
+Blastoise|103|120|79|Bubble Beam:65|Surf:90|Ice Beam:90|Hydro Pump:110
+Caterpie|30|35|45|Bug Bite:60|X-Scissor:80|Energy Ball:90|Megahorn:120
+Metapod|20|55|50|Struggle Bug:50|Bug Bite:60|Flamethrower:90|Megahorn:120
+Butterfree|45|50|60|Bug Bite:60|Brick Break:75|Megahorn:120|Slash:70
+Weedle|35|30|40|Struggle Bug:50|Bug Bite:60|Rock Slide:75|Megahorn:120
+Kakuna|25|50|45|Bug Bite:60|X-Scissor:80|Brick Break:75|Megahorn:120
+Beedrill|150|40|65|Struggle Bug:50|X-Scissor:80|Energy Ball:90|Megahorn:120
+Pidgey|45|40|40|Gust:40|Air Slash:75|Brick Break:75|Hurricane:110
+Pidgeotto|60|55|63|Aerial Ace:60|Air Slash:75|Energy Ball:90|Hurricane:110
+Pidgeot|80|80|83|Aerial Ace:60|Air Slash:75|Shadow Ball:80|Hurricane:110
+Rattata|56|35|30|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Raticate|71|70|75|Tackle:40|Headbutt:70|Flamethrower:90|Hyper Beam:150
+Spearow|60|30|40|Gust:40|Aerial Ace:60|Shadow Ball:80|Hurricane:110
+Fearow|90|65|65|Aerial Ace:60|Brick Break:75|Hurricane:110|Brick Break:75
+Ekans|60|44|35|Sludge:65|Surf:90|Gunk Shot:120|Bite:60
+Arbok|95|69|60|Poison Sting:15|Sludge:65|Thunderbolt:90|Gunk Shot:120
+Pikachu|55|40|35|Thunder Shock:40|Spark:65|Shadow Ball:80|Thunder:110
+Raichu|85|50|60|Thunder Shock:40|Thunderbolt:90|Rock Slide:75|Thunder:110
+Sandshrew|75|90|50|Bulldoze:60|Slash:70|Earthquake:100|Slash:70
+Sandslash|100|120|75|Bulldoze:60|Earthquake:100|Surf:90|Surf:90
+Nidoran♀|47|52|55|Bulldoze:60|Sludge:65|Earthquake:100|Bite:60
+Nidorina|62|67|70|Mud-Slap:20|Bulldoze:60|Gunk Shot:120|Earthquake:100
+Nidoqueen|92|87|90|Bulldoze:60|Gunk Shot:120|Earthquake:100|Ice Beam:90
+Nidoran♂|57|40|46|Mud-Slap:20|Earthquake:100|Sludge:65|Slash:70
+Nidorino|72|57|61|Bulldoze:60|Sludge:65|Earthquake:100|Surf:90
+Nidoking|102|77|81|Mud-Slap:20|Bulldoze:60|Gunk Shot:120|Earthquake:100
+Clefairy|45|48|70|Tackle:40|Headbutt:70|Flamethrower:90|Hyper Beam:150
+Clefable|70|73|95|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Vulpix|41|40|38|Flame Wheel:60|Aerial Ace:60|Fire Blast:110|Shadow Ball:80
+Ninetales|67|75|73|Ember:40|Flame Wheel:60|Energy Ball:90|Fire Blast:110
+Jigglypuff|45|20|115|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Wigglytuff|70|45|140|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Zubat|45|35|40|Gust:40|Air Slash:75|Brick Break:75|Hurricane:110
+Golbat|80|70|75|Aerial Ace:60|Ice Beam:90|Hurricane:110|Flamethrower:90
+Oddish|50|55|45|Vine Whip:45|Razor Leaf:55|Shadow Ball:80|Solar Beam:120
+Gloom|65|70|60|Vine Whip:45|Energy Ball:90|Brick Break:75|Solar Beam:120
+Vileplume|80|85|75|Razor Leaf:55|Energy Ball:90|Slash:70|Solar Beam:120
+Paras|70|55|35|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Parasect|95|80|60|Headbutt:70|Rock Slide:75|Hyper Beam:150|Brick Break:75
+Venonat|55|50|60|Headbutt:70|Energy Ball:90|Hyper Beam:150|Shadow Ball:80
+Venomoth|65|60|70|Sludge:65|Slash:70|Gunk Shot:120|Surf:90
+Diglett|55|30|10|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Dugtrio|100|60|35|Bulldoze:60|Slash:70|Earthquake:100|Slash:70
+Meowth|35|35|40|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Persian|60|60|65|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Psyduck|52|48|50|Water Gun:40|Surf:90|Energy Ball:90|Hydro Pump:110
+Golduck|82|78|80|Bubble Beam:65|Bite:60|Hydro Pump:110|Thunderbolt:90
+Mankey|80|35|40|Karate Chop:50|Brick Break:75|Aerial Ace:60|Focus Punch:150
+Primeape|105|60|65|Brick Break:75|Draining Kiss:50|Focus Punch:150|Flamethrower:90
+Growlithe|70|45|55|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Arcanine|110|80|90|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Poliwag|50|40|40|Bubble Beam:65|Thunderbolt:90|Hydro Pump:110|Ice Beam:90
+Poliwhirl|65|65|65|Water Gun:40|Bubble Beam:65|Surf:90|Hydro Pump:110
+Poliwrath|95|95|90|Water Gun:40|Surf:90|Aerial Ace:60|Hydro Pump:110
+Abra|20|15|25|Confusion:50|Psychic:90|Rock Slide:75|Hyper Beam:150
+Kadabra|35|30|40|Psybeam:65|Bite:60|Flamethrower:90|Thunderbolt:90
+Alakazam|50|65|55|Confusion:50|Psychic:90|Aerial Ace:60|Thunderbolt:90
+Machop|80|50|70|Karate Chop:50|Close Combat:120|Brick Break:75|Focus Punch:150
+Machoke|100|70|80|Karate Chop:50|Close Combat:120|Aerial Ace:60|Focus Punch:150
+Machamp|130|80|90|Brick Break:75|Surf:90|Focus Punch:150|Aerial Ace:60
+Bellsprout|75|35|50|Vine Whip:45|Razor Leaf:55|Bite:60|Solar Beam:120
+Weepinbell|90|50|65|Razor Leaf:55|Shadow Ball:80|Solar Beam:120|Thunderbolt:90
+Victreebel|105|65|80|Vine Whip:45|Razor Leaf:55|Brick Break:75|Solar Beam:120
+Tentacool|40|35|40|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Tentacruel|70|65|80|Headbutt:70|Slash:70|Hyper Beam:150|Thunderbolt:90
+Geodude|80|100|40|Rock Slide:75|Energy Ball:90|Stone Edge:100|Rock Slide:75
+Graveler|95|115|55|Rock Throw:50|Stone Edge:100|Shadow Ball:80|Ice Beam:90
+Golem|120|130|80|Rock Throw:50|Stone Edge:100|Ice Beam:90|Aerial Ace:60
+Ponyta|85|55|50|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Rapidash|100|70|65|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Slowpoke|65|65|90|Confusion:50|Psybeam:65|Ice Beam:90|Thunderbolt:90
+Slowbro|75|180|95|Confusion:50|Psybeam:65|Flamethrower:90|Surf:90
+Magnemite|35|70|25|Thunder Shock:40|Thunderbolt:90|Steel Wing:70|Thunder:110
+Magneton|60|95|50|Spark:65|Steel Wing:70|Thunder:110|Ice Beam:90
+Farfetch'd|90|55|52|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Doduo|85|45|35|Gust:40|Aerial Ace:60|Thunderbolt:90|Hurricane:110
+Dodrio|110|70|60|Aerial Ace:60|Air Slash:75|Hurricane:110|Aerial Ace:60
+Seel|45|55|65|Bubble Beam:65|Shadow Ball:80|Hydro Pump:110|Shadow Ball:80
+Dewgong|70|80|90|Water Gun:40|Surf:90|Aerial Ace:60|Hydro Pump:110
+Grimer|80|50|80|Sludge:65|Rock Slide:75|Gunk Shot:120|Surf:90
+Muk|105|75|105|Poison Sting:15|Sludge Bomb:90|Energy Ball:90|Gunk Shot:120
+Shellder|65|100|30|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Cloyster|95|180|50|Headbutt:70|Ice Beam:90|Hyper Beam:150|Bite:60
+Gastly|35|30|30|Astonish:30|Shadow Ball:80|Rock Slide:75|Thunderbolt:90
+Haunter|50|45|45|Astonish:30|Shadow Ball:80|Energy Ball:90|Thunderbolt:90
+Gengar|65|80|60|Shadow Punch:60|Shadow Ball:80|Flamethrower:90|Hyper Beam:150
+Onix|45|160|35|Rock Throw:50|Rock Slide:75|Aerial Ace:60|Stone Edge:100
+Drowzee|48|45|60|Confusion:50|Psychic:90|Flamethrower:90|Thunderbolt:90
+Hypno|73|70|85|Confusion:50|Psybeam:65|Brick Break:75|Flamethrower:90
+Krabby|105|90|30|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Kingler|130|115|55|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Voltorb|30|50|40|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Electrode|50|70|60|Thunder Shock:40|Thunderbolt:90|Aerial Ace:60|Thunder:110
+Exeggcute|40|80|60|Headbutt:70|Rock Slide:75|Hyper Beam:150|Bite:60
+Exeggutor|105|85|95|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Cubone|50|95|50|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Marowak|80|110|60|Headbutt:70|Energy Ball:90|Hyper Beam:150|Thunderbolt:90
+Hitmonlee|120|53|50|Brick Break:75|Close Combat:120|Ice Beam:90|Thunderbolt:90
+Hitmonchan|105|79|50|Brick Break:75|Close Combat:120|Ice Beam:90|Bite:60
+Lickitung|55|75|90|Headbutt:70|Rock Slide:75|Hyper Beam:150|Slash:70
+Koffing|65|95|40|Sludge:65|Sludge Bomb:90|Bite:60|Gunk Shot:120
+Weezing|90|120|65|Poison Sting:15|Sludge Bomb:90|Thunderbolt:90|Gunk Shot:120
+Rhyhorn|85|95|80|Rock Throw:50|Rock Slide:75|Thunderbolt:90|Stone Edge:100
+Rhydon|130|120|105|Rock Throw:50|Rock Slide:75|Bite:60|Stone Edge:100
+Chansey|5|5|250|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Tangela|55|115|65|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Kangaskhan|125|100|105|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Horsea|40|70|30|Headbutt:70|Surf:90|Hyper Beam:150|Ice Beam:90
+Seadra|65|95|55|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Goldeen|67|60|45|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Seaking|92|65|80|Headbutt:70|Ice Beam:90|Hyper Beam:150|Ice Beam:90
+Staryu|45|55|30|Gust:40|Air Slash:75|Brick Break:75|Hurricane:110
+Starmie|75|85|60|Aerial Ace:60|Energy Ball:90|Hurricane:110|Aerial Ace:60
+Mr. Mime|45|65|40|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Scyther|110|80|70|Struggle Bug:50|Bug Bite:60|Shadow Ball:80|Megahorn:120
+Jynx|50|35|65|Powder Snow:40|Ice Beam:90|Surf:90|Blizzard:110
+Electabuzz|83|57|65|Thunder Shock:40|Spark:65|Surf:90|Thunder:110
+Magmar|95|57|65|Ember:40|Flamethrower:90|Bite:60|Fire Blast:110
+Pinsir|155|120|65|Struggle Bug:50|X-Scissor:80|Brick Break:75|Megahorn:120
+Tauros|100|95|75|Vine Whip:45|Energy Ball:90|Sludge:65|Solar Beam:120
+Magikarp|10|55|20|Headbutt:70|Slash:70|Hyper Beam:150|Ice Beam:90
+Gyarados|155|109|95|Water Gun:40|Bubble Beam:65|Ice Beam:90|Hydro Pump:110
+Lapras|85|80|130|Water Gun:40|Surf:90|Aerial Ace:60|Hydro Pump:110
+Ditto|48|48|48|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Eevee|55|50|55|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Vaporeon|65|60|130|Bubble Beam:65|Surf:90|Energy Ball:90|Hydro Pump:110
+Jolteon|65|60|65|Thunder Shock:40|Spark:65|Slash:70|Thunder:110
+Flareon|130|60|65|Ember:40|Flame Wheel:60|Brick Break:75|Fire Blast:110
+Porygon|60|70|65|Headbutt:70|Brick Break:75|Hyper Beam:150|Aerial Ace:60
+Omanyte|40|100|35|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Omastar|60|125|70|Gust:40|Air Slash:75|Thunderbolt:90|Hurricane:110
+Kabuto|80|90|30|Rock Slide:75|Stone Edge:100|Energy Ball:90|Ice Beam:90
+Kabutops|115|105|60|Rock Slide:75|Stone Edge:100|Energy Ball:90|Rock Slide:75
+Aerodactyl|135|85|80|Rock Throw:50|Rock Slide:75|Thunderbolt:90|Stone Edge:100
+Snorlax|110|65|160|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Articuno|85|100|90|Ice Shard:40|Ice Beam:90|Bite:60|Blizzard:110
+Zapdos|90|85|90|Thunder Shock:40|Spark:65|Shadow Ball:80|Thunder:110
+Moltres|100|90|90|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Dratini|64|45|41|Dragon Breath:60|Dragon Pulse:85|Flamethrower:90|Outrage:120
+Dragonair|84|65|61|Dragon Breath:60|Dragon Pulse:85|Ice Beam:90|Outrage:120
+Dragonite|134|95|91|Dragon Breath:60|Dragon Claw:80|Thunderbolt:90|Outrage:120
+Mewtwo|150|70|106|Confusion:50|Psybeam:65|Rock Slide:75|Thunderbolt:90
+Mew|100|100|100|Confusion:50|Psychic:90|Bite:60|Ice Beam:90
+Chikorita|49|65|45|Razor Leaf:55|Thunderbolt:90|Solar Beam:120|Flamethrower:90
+Bayleef|62|80|60|Vine Whip:45|Energy Ball:90|Brick Break:75|Solar Beam:120
+Meganium|82|100|80|Vine Whip:45|Razor Leaf:55|Rock Slide:75|Solar Beam:120
+Cyndaquil|52|43|39|Tackle:40|Body Slam:85|Slash:70|Hyper Beam:150
+Quilava|64|58|58|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Typhlosion|84|78|78|Ember:40|Flamethrower:90|Brick Break:75|Fire Blast:110
+Totodile|65|64|50|Bubble Beam:65|Surf:90|Hydro Pump:110|Energy Ball:90
+Croconaw|80|80|65|Bubble Beam:65|Surf:90|Bite:60|Hydro Pump:110
+Feraligatr|105|100|85|Bubble Beam:65|Aerial Ace:60|Hydro Pump:110|Ice Beam:90
+Sentret|46|34|35|Headbutt:70|Surf:90|Hyper Beam:150|Shadow Ball:80
+Furret|76|64|85|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Hoothoot|30|30|60|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Noctowl|50|50|100|Headbutt:70|Slash:70|Hyper Beam:150|Brick Break:75
+Ledyba|20|30|40|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Ledian|35|50|55|Headbutt:70|Flamethrower:90|Hyper Beam:150|Aerial Ace:60
+Spinarak|60|40|40|Headbutt:70|Brick Break:75|Hyper Beam:150|Slash:70
+Ariados|90|70|70|Headbutt:70|Energy Ball:90|Hyper Beam:150|Bite:60
+Crobat|90|80|85|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Chinchou|38|38|75|Headbutt:70|Brick Break:75|Hyper Beam:150|Rock Slide:75
+Lanturn|58|58|125|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Pichu|40|15|20|Spark:65|Ice Beam:90|Thunder:110|Ice Beam:90
+Cleffa|25|28|50|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Igglybuff|30|15|90|Headbutt:70|Surf:90|Hyper Beam:150|Brick Break:75
+Togepi|20|65|35|Thunder Shock:40|Spark:65|Dazzling Gleam:80|Thunder:110
+Togetic|40|85|55|Thunder Shock:40|Thunderbolt:90|Moonblast:95|Thunder:110
+Natu|50|45|40|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Xatu|75|70|65|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Mareep|40|40|55|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Aerial Ace:60
+Flaaffy|55|55|70|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Ampharos|95|105|90|Vine Whip:45|Razor Leaf:55|Thunderbolt:90|Solar Beam:120
+Bellossom|80|95|75|Vine Whip:45|Energy Ball:90|Rock Slide:75|Solar Beam:120
+Marill|20|50|70|Bubble Beam:65|Slash:70|Hydro Pump:110|Ice Beam:90
+Azumarill|50|80|100|Bubble Beam:65|Shadow Ball:80|Hydro Pump:110|Surf:90
+Sudowoodo|100|115|70|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Politoed|75|75|90|Bubble Beam:65|Surf:90|Hydro Pump:110|Rock Slide:75
+Hoppip|35|40|35|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Skiploom|45|50|55|Headbutt:70|Flamethrower:90|Hyper Beam:150|Flamethrower:90
+Jumpluff|55|70|75|Headbutt:70|Rock Slide:75|Hyper Beam:150|Shadow Ball:80
+Aipom|70|55|55|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Sunkern|30|30|30|Headbutt:70|Bite:60|Hyper Beam:150|Flamethrower:90
+Sunflora|75|55|75|Draining Kiss:50|Bite:60|Moonblast:95|Flamethrower:90
+Yanma|65|45|65|Bug Bite:60|Surf:90|Megahorn:120|Energy Ball:90
+Wooper|45|45|55|Headbutt:70|Surf:90|Hyper Beam:150|Thunderbolt:90
+Quagsire|85|85|95|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Espeon|65|60|65|Confusion:50|Psybeam:65|Slash:70|Energy Ball:90
+Umbreon|65|110|95|Night Slash:70|Rock Slide:75|Thunderbolt:90|Ice Beam:90
+Murkrow|85|42|60|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Slowking|75|80|95|Confusion:50|Psychic:90|Ice Beam:90|Flamethrower:90
+Misdreavus|60|60|60|Astonish:30|Shadow Ball:80|Thunderbolt:90|Hyper Beam:150
+Unown|72|48|48|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Wobbuffet|33|58|190|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Girafarig|80|65|70|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Pineco|65|90|50|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Forretress|90|140|75|Headbutt:70|Ice Beam:90|Hyper Beam:150|Energy Ball:90
+Dunsparce|70|70|100|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Gligar|75|105|65|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Steelix|125|230|75|Iron Head:80|Surf:90|Energy Ball:90|Aerial Ace:60
+Snubbull|80|50|60|Headbutt:70|Ice Beam:90|Hyper Beam:150|Slash:70
+Granbull|120|75|90|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Qwilfish|95|85|65|Headbutt:70|Brick Break:75|Hyper Beam:150|Ice Beam:90
+Scizor|150|140|70|Metal Claw:50|Flash Cannon:80|Shadow Ball:80|Flamethrower:90
+Shuckle|10|230|20|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Heracross|185|115|80|Vine Whip:45|Razor Leaf:55|Sludge Bomb:90|Solar Beam:120
+Sneasel|95|55|55|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Teddiursa|80|50|60|Headbutt:70|Surf:90|Hyper Beam:150|Bite:60
+Ursaring|130|75|90|Headbutt:70|Flamethrower:90|Hyper Beam:150|Energy Ball:90
+Slugma|40|40|40|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Magcargo|50|120|60|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Swinub|50|40|50|Powder Snow:40|Ice Beam:90|Surf:90|Blizzard:110
+Piloswine|100|80|100|Powder Snow:40|Ice Beam:90|Energy Ball:90|Blizzard:110
+Corsola|55|95|65|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Remoraid|65|35|35|Headbutt:70|Brick Break:75|Hyper Beam:150|Bite:60
+Octillery|105|75|75|Headbutt:70|Slash:70|Hyper Beam:150|Brick Break:75
+Delibird|55|45|45|Ice Shard:40|Flamethrower:90|Blizzard:110|Flamethrower:90
+Mantine|40|70|85|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Skarmory|80|140|65|Iron Head:80|Flash Cannon:80|Surf:90|Brick Break:75
+Houndour|60|30|45|Flame Wheel:60|Flamethrower:90|Dark Pulse:80|Fire Blast:110
+Houndoom|90|90|75|Ember:40|Flamethrower:90|Dark Pulse:80|Fire Blast:110
+Kingdra|95|95|75|Bubble Beam:65|Surf:90|Hydro Pump:110|Flamethrower:90
+Phanpy|60|60|90|Headbutt:70|Brick Break:75|Hyper Beam:150|Energy Ball:90
+Donphan|120|120|90|Mud-Slap:20|Earthquake:100|Energy Ball:90|Surf:90
+Porygon2|80|90|85|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Stantler|95|62|73|Headbutt:70|Bite:60|Hyper Beam:150|Slash:70
+Smeargle|20|35|55|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Tyrogue|35|35|35|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Hitmontop|95|95|50|Karate Chop:50|Close Combat:120|Brick Break:75|Focus Punch:150
+Smoochum|30|15|45|Headbutt:70|Slash:70|Hyper Beam:150|Surf:90
+Elekid|63|37|45|Spark:65|Thunderbolt:90|Surf:90|Thunder:110
+Magby|75|37|45|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Miltank|80|105|95|Headbutt:70|Bite:60|Hyper Beam:150|Aerial Ace:60
+Blissey|10|10|255|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Raikou|85|75|90|Spark:65|Rock Slide:75|Thunder:110|Ice Beam:90
+Entei|115|85|115|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Suicune|75|115|100|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Larvitar|64|50|50|Rock Throw:50|Stone Edge:100|Rock Slide:75|Bite:60
+Pupitar|84|70|70|Rock Throw:50|Rock Slide:75|Thunderbolt:90|Stone Edge:100
+Tyranitar|164|150|100|Rock Slide:75|Stone Edge:100|Flamethrower:90|Aerial Ace:60
+Lugia|90|130|106|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Ho-Oh|130|90|106|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Celebi|100|100|100|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Treecko|45|35|40|Vine Whip:45|Energy Ball:90|Rock Slide:75|Solar Beam:120
+Grovyle|65|45|50|Vine Whip:45|Energy Ball:90|Ice Beam:90|Solar Beam:120
+Sceptile|110|75|70|Vine Whip:45|Energy Ball:90|Bite:60|Solar Beam:120
+Torchic|60|40|45|Flame Wheel:60|Flamethrower:90|Shadow Ball:80|Fire Blast:110
+Combusken|85|60|60|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Blaziken|160|80|80|Ember:40|Flame Wheel:60|Flamethrower:90|Fire Blast:110
+Mudkip|70|50|50|Bubble Beam:65|Surf:90|Hydro Pump:110|Slash:70
+Marshtomp|85|70|70|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Swampert|150|110|100|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Poochyena|55|35|35|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Slash:70
+Mightyena|90|70|70|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Zigzagoon|30|41|38|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Linoone|70|61|78|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Wurmple|45|35|45|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Silcoon|35|55|50|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Beautifly|70|50|60|Headbutt:70|Energy Ball:90|Hyper Beam:150|Ice Beam:90
+Cascoon|35|55|50|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Dustox|50|70|60|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Surf:90
+Lotad|30|30|40|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Lombre|50|50|60|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Ludicolo|70|70|80|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Seedot|40|50|40|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Nuzleaf|70|40|70|Vine Whip:45|Razor Leaf:55|Bite:60|Solar Beam:120
+Shiftry|100|60|90|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Taillow|55|30|40|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Swellow|85|60|60|Gust:40|Aerial Ace:60|Thunderbolt:90|Hurricane:110
+Wingull|30|30|40|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Pelipper|50|100|60|Headbutt:70|Flamethrower:90|Hyper Beam:150|Brick Break:75
+Ralts|25|25|28|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Kirlia|35|35|38|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Gardevoir|85|65|68|Confusion:50|Psybeam:65|Moonblast:95|Thunderbolt:90
+Surskit|30|32|40|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Masquerain|60|62|70|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Shroomish|40|60|60|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Breloom|130|80|60|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Slakoth|60|60|60|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Vigoroth|80|80|80|Headbutt:70|Flamethrower:90|Hyper Beam:150|Energy Ball:90
+Slaking|160|100|150|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Aerial Ace:60
+Nincada|45|90|31|Struggle Bug:50|X-Scissor:80|Rock Slide:75|Megahorn:120
+Ninjask|90|45|61|Headbutt:70|Bite:60|Hyper Beam:150|Flamethrower:90
+Shedinja|90|45|1|Struggle Bug:50|Bug Bite:60|Surf:90|Megahorn:120
+Whismur|51|23|64|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Loudred|71|43|84|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Exploud|91|63|104|Headbutt:70|Flamethrower:90|Hyper Beam:150|Ice Beam:90
+Makuhita|60|30|72|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Hariyama|120|60|144|Brick Break:75|Close Combat:120|Surf:90|Focus Punch:150
+Azurill|20|40|50|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Nosepass|45|135|30|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Skitty|45|45|50|Headbutt:70|Flamethrower:90|Hyper Beam:150|Shadow Ball:80
+Delcatty|65|65|70|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Sableye|85|125|50|Tackle:40|Body Slam:85|Slash:70|Hyper Beam:150
+Mawile|105|125|50|Metal Claw:50|Flash Cannon:80|Brick Break:75|Ice Beam:90
+Aron|70|100|50|Headbutt:70|Bite:60|Hyper Beam:150|Surf:90
+Lairon|90|140|60|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Aggron|140|230|70|Iron Head:80|Flash Cannon:80|Brick Break:75|Flamethrower:90
+Meditite|40|55|30|Headbutt:70|Surf:90|Hyper Beam:150|Brick Break:75
+Medicham|100|85|60|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Electrike|45|40|40|Thunder Shock:40|Thunderbolt:90|Flamethrower:90|Thunder:110
+Manectric|75|80|70|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Plusle|50|40|60|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Minun|40|50|60|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Volbeat|73|75|65|Headbutt:70|Slash:70|Hyper Beam:150|Energy Ball:90
+Illumise|47|75|65|Headbutt:70|Surf:90|Hyper Beam:150|Energy Ball:90
+Roselia|60|45|50|Vine Whip:45|Razor Leaf:55|Gunk Shot:120|Solar Beam:120
+Gulpin|43|53|70|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Swalot|73|83|100|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Carvanha|90|20|45|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Sharpedo|140|70|70|Headbutt:70|Flamethrower:90|Hyper Beam:150|Brick Break:75
+Wailmer|70|35|130|Water Gun:40|Bubble Beam:65|Surf:90|Hydro Pump:110
+Wailord|90|45|170|Water Gun:40|Surf:90|Slash:70|Hydro Pump:110
+Numel|60|40|60|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Camerupt|120|100|70|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Torkoal|85|140|70|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Spoink|25|35|60|Headbutt:70|Flamethrower:90|Hyper Beam:150|Thunderbolt:90
+Grumpig|45|65|80|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Spinda|60|60|60|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Trapinch|100|45|45|Mud-Slap:20|Earthquake:100|Thunderbolt:90|Energy Ball:90
+Vibrava|70|50|50|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Flygon|100|80|80|Bulldoze:60|Slash:70|Earthquake:100|Rock Slide:75
+Cacnea|85|40|50|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Cacturne|115|60|70|Razor Leaf:55|Rock Slide:75|Solar Beam:120|Shadow Ball:80
+Swablu|40|60|45|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Altaria|110|110|75|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Zangoose|115|60|73|Headbutt:70|Brick Break:75|Hyper Beam:150|Flamethrower:90
+Seviper|100|60|73|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Lunatone|55|65|90|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Solrock|95|85|90|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Barboach|48|43|50|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Whiscash|78|73|110|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Corphish|80|65|43|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Crawdaunt|120|85|63|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Baltoy|40|55|40|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Claydol|70|105|60|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Lileep|41|77|66|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Cradily|81|97|86|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Anorith|95|50|45|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Armaldo|125|100|75|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Rock Slide:75
+Feebas|15|20|20|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Milotic|60|79|95|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Slash:70
+Castform|70|70|70|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Kecleon|90|70|60|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Shuppet|75|35|44|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Banette|165|75|64|Astonish:30|Shadow Punch:60|Bite:60|Energy Ball:90
+Duskull|40|90|20|Astonish:30|Shadow Ball:80|Slash:70|Energy Ball:90
+Dusclops|70|130|40|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Tropius|68|83|99|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Chimecho|50|80|75|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Absol|150|60|65|Night Slash:70|Crunch:80|Brick Break:75|Thunderbolt:90
+Wynaut|23|48|95|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Snorunt|50|50|50|Headbutt:70|Brick Break:75|Hyper Beam:150|Rock Slide:75
+Glalie|120|80|80|Ice Shard:40|Ice Beam:90|Surf:90|Blizzard:110
+Spheal|40|50|70|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Sealeo|60|70|90|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Walrein|80|90|110|Headbutt:70|Flamethrower:90|Hyper Beam:150|Energy Ball:90
+Clamperl|64|85|35|Headbutt:70|Energy Ball:90|Hyper Beam:150|Energy Ball:90
+Huntail|104|105|55|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Gorebyss|84|105|55|Tackle:40|Headbutt:70|Flamethrower:90|Hyper Beam:150
+Relicanth|90|130|100|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Luvdisc|30|55|43|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Bagon|75|60|45|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Surf:90
+Shelgon|95|100|65|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Surf:90
+Salamence|145|130|95|Dragon Claw:80|Rock Slide:75|Outrage:120|Energy Ball:90
+Beldum|55|80|40|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Metang|75|100|60|Struggle Bug:50|X-Scissor:80|Brick Break:75|Megahorn:120
+Metagross|145|150|80|Razor Leaf:55|Energy Ball:90|Psychic:90|Solar Beam:120
+Regirock|100|200|80|Rock Throw:50|Stone Edge:100|Ice Beam:90|Energy Ball:90
+Regice|50|100|80|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Registeel|75|150|80|Metal Claw:50|Iron Head:80|Ice Beam:90|Surf:90
+Latias|100|120|80|Dragon Claw:80|Dragon Pulse:85|Rock Slide:75|Outrage:120
+Latios|130|100|80|Dragon Claw:80|Dragon Pulse:85|Brick Break:75|Outrage:120
+Kyogre|150|90|100|Bubble Beam:65|Surf:90|Brick Break:75|Hydro Pump:110
+Groudon|180|160|100|Bulldoze:60|Earthquake:100|Brick Break:75|Brick Break:75
+Rayquaza|180|100|105|Dragon Breath:60|Dragon Claw:80|Bite:60|Outrage:120
+Jirachi|100|100|100|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Deoxys|95|90|50|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Turtwig|68|64|55|Vine Whip:45|Razor Leaf:55|Ice Beam:90|Solar Beam:120
+Grotle|89|85|75|Vine Whip:45|Razor Leaf:55|Bite:60|Solar Beam:120
+Torterra|109|105|95|Razor Leaf:55|Energy Ball:90|Flamethrower:90|Solar Beam:120
+Chimchar|58|44|44|Flame Wheel:60|Energy Ball:90|Fire Blast:110|Bite:60
+Monferno|78|52|64|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Infernape|104|71|76|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Piplup|51|53|53|Bubble Beam:65|Flamethrower:90|Hydro Pump:110|Thunderbolt:90
+Prinplup|66|68|64|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Empoleon|86|88|84|Bubble Beam:65|Steel Wing:70|Hydro Pump:110|Energy Ball:90
+Starly|55|30|40|Aerial Ace:60|Air Slash:75|Hurricane:110|Aerial Ace:60
+Staravia|75|50|55|Aerial Ace:60|Slash:70|Hurricane:110|Shadow Ball:80
+Staraptor|120|70|85|Aerial Ace:60|Slash:70|Hurricane:110|Aerial Ace:60
+Bidoof|45|40|59|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Bibarel|85|60|79|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Kricketot|25|41|37|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Kricketune|85|51|77|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Shinx|65|34|45|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Luxio|85|49|60|Spark:65|Thunderbolt:90|Ice Beam:90|Thunder:110
+Luxray|120|79|80|Thunder Shock:40|Thunderbolt:90|Surf:90|Thunder:110
+Budew|30|35|40|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Roserade|70|65|60|Razor Leaf:55|Energy Ball:90|Sludge:65|Solar Beam:120
+Cranidos|125|40|67|Rock Slide:75|Stone Edge:100|Earth Power:90|Rock Slide:75
+Rampardos|165|60|97|Rock Slide:75|Stone Edge:100|Thunderbolt:90|Slash:70
+Shieldon|42|118|30|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Bastiodon|52|168|60|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Burmy|29|45|40|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Wormadam|69|95|60|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Mothim|94|50|70|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Combee|30|42|30|Headbutt:70|Flamethrower:90|Hyper Beam:150|Aerial Ace:60
+Vespiquen|80|102|70|Headbutt:70|Ice Beam:90|Hyper Beam:150|Slash:70
+Pachirisu|45|70|60|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Buizel|65|35|55|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Floatzel|105|55|85|Fairy Wind:40|Draining Kiss:50|Rock Slide:75|Moonblast:95
+Cherubi|35|45|45|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Cherrim|60|70|70|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Shellos|48|48|76|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Gastrodon|83|68|111|Astonish:30|Shadow Ball:80|Brick Break:75|Thunderbolt:90
+Ambipom|100|66|75|Headbutt:70|Rock Slide:75|Hyper Beam:150|Brick Break:75
+Drifloon|50|34|90|Aerial Ace:60|Air Slash:75|Dazzling Gleam:80|Hurricane:110
+Drifblim|80|44|150|Aerial Ace:60|Air Slash:75|Surf:90|Hurricane:110
+Buneary|66|44|55|Headbutt:70|Rock Slide:75|Hyper Beam:150|Flamethrower:90
+Lopunny|136|94|65|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Mismagius|60|60|60|Headbutt:70|Slash:70|Hyper Beam:150|Ice Beam:90
+Honchkrow|125|52|100|Bite:60|Crunch:80|Aerial Ace:60|Thunderbolt:90
+Glameow|55|42|49|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Purugly|82|64|71|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Chingling|30|50|45|Headbutt:70|Surf:90|Hyper Beam:150|Brick Break:75
+Stunky|63|47|63|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Skuntank|93|67|103|Night Slash:70|Brick Break:75|Hyper Beam:150|Energy Ball:90
+Bronzor|24|86|57|Headbutt:70|Brick Break:75|Hyper Beam:150|Thunderbolt:90
+Bronzong|89|116|67|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Bonsly|80|95|50|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Mime Jr.|25|45|20|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Happiny|5|5|100|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Chatot|65|45|76|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Spiritomb|92|108|50|Shadow Punch:60|Shadow Ball:80|Surf:90|Ice Beam:90
+Gible|70|45|58|Headbutt:70|Brick Break:75|Hyper Beam:150|Shadow Ball:80
+Gabite|90|65|68|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Garchomp|170|115|108|Mud-Slap:20|Earthquake:100|Dragon Pulse:85|Energy Ball:90
+Munchlax|85|40|135|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Bite:60
+Riolu|70|40|40|Headbutt:70|Energy Ball:90|Hyper Beam:150|Ice Beam:90
+Lucario|145|88|70|Brick Break:75|Close Combat:120|Iron Head:80|Focus Punch:150
+Hippopotas|72|78|68|Mud-Slap:20|Earthquake:100|Rock Slide:75|Bite:60
+Hippowdon|112|118|108|Bulldoze:60|Earthquake:100|Flamethrower:90|Shadow Ball:80
+Skorupi|50|90|40|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Drapion|90|110|70|Night Slash:70|Crunch:80|Flamethrower:90|Energy Ball:90
+Croagunk|61|40|48|Sludge:65|Sludge Bomb:90|Shadow Ball:80|Gunk Shot:120
+Toxicroak|106|65|83|Brick Break:75|Sludge:65|Close Combat:120|Energy Ball:90
+Carnivine|100|72|74|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Finneon|49|56|49|Tackle:40|Headbutt:70|Flamethrower:90|Hyper Beam:150
+Lumineon|69|76|69|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Mantyke|20|50|45|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Snover|62|50|60|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Abomasnow|132|105|90|Headbutt:70|Ice Beam:90|Hyper Beam:150|Bite:60
+Weavile|120|65|70|Vine Whip:45|Energy Ball:90|Night Slash:70|Solar Beam:120
+Magnezone|70|115|70|Thunder Shock:40|Thunderbolt:90|Iron Head:80|Thunder:110
+Lickilicky|85|95|110|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Rhyperior|140|130|115|Rock Slide:75|Stone Edge:100|Energy Ball:90|Thunderbolt:90
+Tangrowth|100|125|100|Tackle:40|Body Slam:85|Slash:70|Hyper Beam:150
+Electivire|123|67|75|Spark:65|Shadow Ball:80|Thunder:110|Ice Beam:90
+Magmortar|95|67|75|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Togekiss|50|95|85|Thunder Shock:40|Thunderbolt:90|Draining Kiss:50|Thunder:110
+Yanmega|76|86|86|Bug Bite:60|Aerial Ace:60|Megahorn:120|Ice Beam:90
+Leafeon|110|130|65|Razor Leaf:55|Energy Ball:90|Bite:60|Solar Beam:120
+Glaceon|60|110|65|Headbutt:70|Flamethrower:90|Hyper Beam:150|Shadow Ball:80
+Gliscor|95|125|75|Bulldoze:60|Earthquake:100|Surf:90|Flamethrower:90
+Mamoswine|130|80|110|Powder Snow:40|Ice Shard:40|Earthquake:100|Blizzard:110
+Porygon-Z|80|70|85|Tackle:40|Body Slam:85|Slash:70|Hyper Beam:150
+Gallade|165|95|68|Brick Break:75|Focus Punch:150|Rock Slide:75|Aerial Ace:60
+Probopass|55|145|60|Iron Head:80|Slash:70|Ice Beam:90|Slash:70
+Dusknoir|100|135|45|Shadow Punch:60|Shadow Ball:80|Surf:90|Flamethrower:90
+Froslass|80|70|70|Razor Leaf:55|Energy Ball:90|Ice Shard:40|Solar Beam:120
+Rotom|65|107|50|Thunder Shock:40|Thunderbolt:90|Shadow Punch:60|Thunder:110
+Uxie|75|130|75|Confusion:50|Psybeam:65|Shadow Ball:80|Flamethrower:90
+Mesprit|105|105|80|Psybeam:65|Bite:60|Hyper Beam:150|Rock Slide:75
+Azelf|125|70|75|Confusion:50|Psybeam:65|Energy Ball:90|Surf:90
+Dialga|120|120|100|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Palkia|120|100|90|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Heatran|90|106|91|Ember:40|Flame Wheel:60|Bite:60|Fire Blast:110
+Regigigas|160|110|110|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Giratina|120|100|150|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Cresselia|70|120|120|Psybeam:65|Brick Break:75|Surf:90|Thunderbolt:90
+Phione|80|80|80|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Manaphy|100|100|100|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Darkrai|90|90|70|Night Slash:70|Thunderbolt:90|Ice Beam:90|Energy Ball:90
+Shaymin|103|75|100|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Arceus|120|120|120|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Victini|100|100|100|Razor Leaf:55|Slash:70|Solar Beam:120|Ice Beam:90
+Snivy|45|55|45|Razor Leaf:55|Energy Ball:90|Solar Beam:120|Ice Beam:90
+Servine|60|75|60|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Serperior|75|95|75|Razor Leaf:55|Energy Ball:90|Slash:70|Solar Beam:120
+Tepig|63|45|65|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Pignite|93|55|90|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Emboar|123|65|110|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Oshawott|55|45|55|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Dewott|75|60|75|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Samurott|100|85|95|Headbutt:70|Slash:70|Hyper Beam:150|Slash:70
+Patrat|55|39|45|Headbutt:70|Brick Break:75|Hyper Beam:150|Surf:90
+Watchog|85|69|60|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Lillipup|60|45|45|Vine Whip:45|Energy Ball:90|Shadow Ball:80|Solar Beam:120
+Herdier|80|65|65|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Stoutland|110|90|85|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Purrloin|50|37|41|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Ice Beam:90
+Liepard|88|50|64|Headbutt:70|Slash:70|Hyper Beam:150|Aerial Ace:60
+Pansage|53|48|50|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Simisage|98|63|75|Headbutt:70|Surf:90|Hyper Beam:150|Rock Slide:75
+Pansear|53|48|50|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Simisear|98|63|75|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Panpour|53|48|50|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Simipour|98|63|75|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Munna|25|45|76|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Musharna|55|85|116|Headbutt:70|Bite:60|Hyper Beam:150|Aerial Ace:60
+Pidove|55|50|50|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Tranquill|77|62|62|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Unfezant|115|80|80|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Ice Beam:90
+Blitzle|60|32|45|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Zebstrika|100|63|75|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Roggenrola|75|85|55|Headbutt:70|Slash:70|Hyper Beam:150|Rock Slide:75
+Boldore|105|105|70|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Gigalith|135|130|85|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Woobat|45|43|65|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Swoobat|57|55|67|Headbutt:70|Energy Ball:90|Hyper Beam:150|Aerial Ace:60
+Drilbur|85|40|60|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Excadrill|135|60|110|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Audino|60|126|103|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Aerial Ace:60
+Timburr|80|55|75|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Gurdurr|105|85|85|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Conkeldurr|140|95|105|Brick Break:75|Close Combat:120|Aerial Ace:60|Surf:90
+Tympole|50|40|50|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Palpitoad|65|55|75|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Seismitoad|95|75|105|Headbutt:70|Energy Ball:90|Hyper Beam:150|Flamethrower:90
+Throh|100|85|120|Karate Chop:50|Brick Break:75|Thunderbolt:90|Close Combat:120
+Sawk|125|75|75|Brick Break:75|Energy Ball:90|Focus Punch:150|Surf:90
+Sewaddle|53|70|45|Headbutt:70|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Swadloon|63|90|55|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Shadow Ball:80
+Leavanny|103|80|75|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Venipede|45|59|30|Headbutt:70|Surf:90|Hyper Beam:150|Ice Beam:90
+Whirlipede|55|99|40|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Scolipede|100|89|60|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Rock Slide:75
+Cottonee|27|60|40|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Whimsicott|67|85|60|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Petilil|35|50|45|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Lilligant|60|75|70|Vine Whip:45|Energy Ball:90|Brick Break:75|Solar Beam:120
+Basculin|92|65|70|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Sandile|72|35|50|Bulldoze:60|Slash:70|Earthquake:100|Thunderbolt:90
+Krokorok|82|45|60|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Krookodile|117|80|95|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Surf:90
+Darumaka|90|45|70|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Darmanitan|30|105|105|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Maractus|86|67|75|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Dwebble|65|85|50|Headbutt:70|Bite:60|Hyper Beam:150|Flamethrower:90
+Crustle|105|125|70|Bug Bite:60|Flamethrower:90|Megahorn:120|Surf:90
+Scraggy|75|70|50|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Surf:90
+Scrafty|90|115|65|Headbutt:70|Flamethrower:90|Hyper Beam:150|Flamethrower:90
+Sigilyph|58|80|72|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Yamask|30|85|38|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Cofagrigus|50|145|58|Headbutt:70|Surf:90|Hyper Beam:150|Brick Break:75
+Tirtouga|78|103|54|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Carracosta|108|133|74|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Archen|112|45|55|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Archeops|140|65|75|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Trubbish|50|62|50|Metal Claw:50|Iron Head:80|Brick Break:75|Hyper Beam:150
+Garbodor|95|82|80|Poison Sting:15|Sludge:65|Thunderbolt:90|Gunk Shot:120
+Zorua|65|40|40|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Zoroark|105|60|60|Night Slash:70|Bite:60|Thunderbolt:90|Ice Beam:90
+Minccino|50|40|55|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Cinccino|95|60|75|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Gothita|30|50|45|Psybeam:65|Psychic:90|Energy Ball:90|Surf:90
+Gothorita|45|70|60|Psybeam:65|Psychic:90|Energy Ball:90|Thunderbolt:90
+Gothitelle|55|95|70|Confusion:50|Psychic:90|Bite:60|Surf:90
+Solosis|30|40|45|Headbutt:70|Slash:70|Hyper Beam:150|Bite:60
+Duosion|40|50|65|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Reuniclus|65|75|110|Confusion:50|Psybeam:65|Shadow Ball:80|Thunderbolt:90
+Ducklett|44|50|62|Water Gun:40|Bubble Beam:65|Flamethrower:90|Hydro Pump:110
+Swanna|87|63|75|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Vanillite|50|50|36|Ice Shard:40|Ice Beam:90|Blizzard:110|Rock Slide:75
+Vanillish|65|65|51|Ice Shard:40|Ice Beam:90|Aerial Ace:60|Blizzard:110
+Vanilluxe|95|85|71|Spark:65|Thunderbolt:90|Ice Shard:40|Thunder:110
+Deerling|60|50|60|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Aerial Ace:60
+Sawsbuck|100|70|80|Headbutt:70|Ice Beam:90|Hyper Beam:150|Slash:70
+Emolga|75|60|55|Headbutt:70|Brick Break:75|Hyper Beam:150|Brick Break:75
+Karrablast|75|45|50|Bubble Beam:65|Aerial Ace:60|Hydro Pump:110|Rock Slide:75
+Escavalier|135|105|70|Ice Shard:40|Shadow Ball:80|Blizzard:110|Aerial Ace:60
+Foongus|55|45|69|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Flamethrower:90
+Amoonguss|85|70|114|Tackle:40|Body Slam:85|Slash:70|Hyper Beam:150
+Frillish|40|50|55|Headbutt:70|Energy Ball:90|Hyper Beam:150|Aerial Ace:60
+Jellicent|60|70|100|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Alomomola|75|80|165|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Joltik|47|50|50|Spark:65|Surf:90|Thunder:110|Thunderbolt:90
+Galvantula|77|60|70|Struggle Bug:50|Bug Bite:60|Brick Break:75|Megahorn:120
+Ferroseed|50|91|44|Razor Leaf:55|Energy Ball:90|Gunk Shot:120|Solar Beam:120
+Ferrothorn|94|131|74|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Klink|55|70|40|Metal Claw:50|Flash Cannon:80|Flamethrower:90|Energy Ball:90
+Klang|80|95|60|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Klinklang|100|115|60|Metal Claw:50|Flash Cannon:80|Surf:90|Thunderbolt:90
+Tynamo|55|40|35|Tackle:40|Headbutt:70|Flamethrower:90|Hyper Beam:150
+Eelektrik|85|70|65|Spark:65|Shadow Ball:80|Thunder:110|Bite:60
+Eelektross|115|80|85|Vine Whip:45|Razor Leaf:55|Thunder:110|Solar Beam:120
+Elgyem|55|55|55|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Beheeyem|75|75|75|Psybeam:65|Psychic:90|Energy Ball:90|Ice Beam:90
+Litwick|30|55|50|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Thunderbolt:90
+Lampent|40|60|60|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Chandelure|55|90|60|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Axew|87|60|46|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Fraxure|117|70|66|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Surf:90
+Haxorus|147|90|76|Dragon Breath:60|Dragon Pulse:85|Ice Beam:90|Outrage:120
+Cubchoo|70|40|55|Tackle:40|Body Slam:85|Slash:70|Hyper Beam:150
+Beartic|130|80|95|Ice Shard:40|Shadow Ball:80|Blizzard:110|Flamethrower:90
+Cryogonal|50|50|80|Powder Snow:40|Ice Shard:40|Flamethrower:90|Blizzard:110
+Shelmet|40|85|50|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Accelgor|70|40|80|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Stunfisk|66|84|109|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Mienfoo|85|50|45|Headbutt:70|Brick Break:75|Hyper Beam:150|Shadow Ball:80
+Mienshao|125|60|65|Karate Chop:50|Brick Break:75|Thunderbolt:90|Focus Punch:150
+Druddigon|120|90|77|Headbutt:70|Surf:90|Hyper Beam:150|Slash:70
+Golett|74|50|59|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Golurk|124|80|89|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Pawniard|85|70|45|Tackle:40|Headbutt:70|Slash:70|Hyper Beam:150
+Bisharp|125|100|65|Metal Claw:50|Flash Cannon:80|Brick Break:75|Ice Beam:90
+Bouffalant|110|95|95|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Rufflet|83|50|70|Headbutt:70|Bite:60|Hyper Beam:150|Aerial Ace:60
+Braviary|123|75|100|Gust:40|Air Slash:75|Energy Ball:90|Hurricane:110
+Vullaby|55|75|70|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Mandibuzz|65|105|110|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Heatmor|97|66|85|Ember:40|Flame Wheel:60|Ice Beam:90|Fire Blast:110
+Durant|109|112|58|Struggle Bug:50|X-Scissor:80|Brick Break:75|Megahorn:120
+Deino|65|50|52|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Zweilous|85|70|72|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Hydreigon|105|90|92|Dragon Breath:60|Dragon Claw:80|Shadow Ball:80|Outrage:120
+Larvesta|85|55|55|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Surf:90
+Volcarona|60|65|85|Struggle Bug:50|Bug Bite:60|Energy Ball:90|Megahorn:120
+Cobalion|90|129|91|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Terrakion|129|90|91|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Virizion|90|72|91|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Tornadus|100|80|79|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Thundurus|105|70|79|Headbutt:70|Energy Ball:90|Hyper Beam:150|Slash:70
+Reshiram|120|100|100|Headbutt:70|Brick Break:75|Hyper Beam:150|Rock Slide:75
+Zekrom|150|120|100|Spark:65|Thunderbolt:90|Surf:90|Thunder:110
+Landorus|145|90|89|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Kyurem|120|90|125|Headbutt:70|Slash:70|Hyper Beam:150|Flamethrower:90
+Keldeo|72|90|91|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Meloetta|128|90|100|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Genesect|120|95|71|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Chespin|61|65|56|Headbutt:70|Rock Slide:75|Hyper Beam:150|Energy Ball:90
+Quilladin|78|95|61|Headbutt:70|Bite:60|Hyper Beam:150|Brick Break:75
+Chesnaught|107|122|88|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Fennekin|45|40|40|Headbutt:70|Slash:70|Hyper Beam:150|Slash:70
+Braixen|59|58|59|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Delphox|69|72|75|Psybeam:65|Psychic:90|Bite:60|Ice Beam:90
+Froakie|56|40|41|Bubble Beam:65|Surf:90|Shadow Ball:80|Hydro Pump:110
+Frogadier|63|52|54|Tackle:40|Headbutt:70|Brick Break:75|Hyper Beam:150
+Greninja|145|67|72|Bubble Beam:65|Surf:90|Night Slash:70|Hydro Pump:110
+Bunnelby|36|38|38|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Diggersby|56|77|85|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Fletchling|50|43|45|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Fletchinder|73|55|62|Tackle:40|Headbutt:70|Ice Beam:90|Hyper Beam:150
+Talonflame|81|71|78|Flame Wheel:60|Aerial Ace:60|Fire Blast:110|Rock Slide:75
+Scatterbug|35|40|38|Headbutt:70|Flamethrower:90|Hyper Beam:150|Surf:90
+Spewpa|22|60|45|Headbutt:70|Flamethrower:90|Hyper Beam:150|Thunderbolt:90
+Vivillon|52|50|80|Bug Bite:60|Ice Beam:90|Megahorn:120|Rock Slide:75
+Litleo|50|58|62|Flame Wheel:60|Surf:90|Fire Blast:110|Bite:60
+Pyroar|68|72|86|Ember:40|Flame Wheel:60|Ice Beam:90|Fire Blast:110
+Flabébé|38|39|44|Fairy Wind:40|Draining Kiss:50|Energy Ball:90|Moonblast:95
+Floette|65|67|74|Draining Kiss:50|Brick Break:75|Moonblast:95|Flamethrower:90
+Florges|65|68|78|Fairy Wind:40|Draining Kiss:50|Energy Ball:90|Moonblast:95
+Skiddo|65|48|66|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Gogoat|100|62|123|Vine Whip:45|Energy Ball:90|Ice Beam:90|Solar Beam:120
+Pancham|82|62|67|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Pangoro|124|78|95|Karate Chop:50|Close Combat:120|Flamethrower:90|Focus Punch:150
+Furfrou|80|60|75|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Thunderbolt:90
+Espurr|48|54|62|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Meowstic|48|76|74|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Honedge|80|100|45|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Doublade|110|150|59|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Aegislash|150|50|60|Iron Head:80|Flash Cannon:80|Rock Slide:75|Surf:90
+Spritzee|52|60|78|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Aromatisse|72|72|101|Fairy Wind:40|Draining Kiss:50|Shadow Ball:80|Moonblast:95
+Swirlix|48|66|62|Headbutt:70|Ice Beam:90|Hyper Beam:150|Rock Slide:75
+Slurpuff|80|86|82|Draining Kiss:50|Dazzling Gleam:80|Thunderbolt:90|Moonblast:95
+Inkay|54|53|53|Headbutt:70|Surf:90|Hyper Beam:150|Aerial Ace:60
+Malamar|92|88|86|Psybeam:65|Slash:70|Hyper Beam:150|Energy Ball:90
+Binacle|52|67|42|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Barbaracle|105|115|72|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Skrelp|60|60|50|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Dragalge|75|90|65|Sludge:65|Slash:70|Gunk Shot:120|Shadow Ball:80
+Clauncher|53|62|50|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Clawitzer|73|88|71|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Helioptile|38|33|44|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Heliolisk|55|52|62|Headbutt:70|Body Slam:85|Surf:90|Hyper Beam:150
+Tyrunt|89|77|58|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Tyrantrum|121|119|82|Rock Slide:75|Flamethrower:90|Stone Edge:100|Ice Beam:90
+Amaura|59|50|77|Headbutt:70|Slash:70|Hyper Beam:150|Brick Break:75
+Aurorus|77|72|123|Headbutt:70|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Sylveon|65|65|95|Fairy Wind:40|Dazzling Gleam:80|Flamethrower:90|Moonblast:95
+Hawlucha|92|75|78|Karate Chop:50|Close Combat:120|Aerial Ace:60|Shadow Ball:80
+Dedenne|58|57|67|Spark:65|Thunderbolt:90|Moonblast:95|Thunder:110
+Carbink|50|150|50|Tackle:40|Headbutt:70|Energy Ball:90|Hyper Beam:150
+Goomy|50|35|45|Headbutt:70|Surf:90|Hyper Beam:150|Bite:60
+Sliggoo|75|53|68|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Goodra|100|70|90|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Klefki|80|91|57|Fairy Wind:40|Dazzling Gleam:80|Rock Slide:75|Moonblast:95
+Phantump|70|48|43|Shadow Punch:60|Shadow Ball:80|Flamethrower:90|Energy Ball:90
+Trevenant|110|76|85|Shadow Punch:60|Shadow Ball:80|Aerial Ace:60|Ice Beam:90
+Pumpkaboo|66|70|59|Headbutt:70|Surf:90|Hyper Beam:150|Rock Slide:75
+Gourgeist|100|122|85|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Bergmite|69|85|55|Ice Shard:40|Slash:70|Blizzard:110|Flamethrower:90
+Avalugg|117|184|95|Ice Shard:40|Ice Beam:90|Energy Ball:90|Blizzard:110
+Noibat|30|35|40|Headbutt:70|Ice Beam:90|Hyper Beam:150|Thunderbolt:90
+Noivern|70|80|85|Gust:40|Aerial Ace:60|Dragon Pulse:85|Hurricane:110
+Xerneas|131|95|126|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Yveltal|131|95|126|Bite:60|Crunch:80|Thunderbolt:90|Energy Ball:90
+Zygarde|100|121|216|Confusion:50|Psybeam:65|Dragon Pulse:85|Surf:90
+Diancie|160|110|50|Draining Kiss:50|Aerial Ace:60|Moonblast:95|Surf:90
+Hoopa|160|60|80|Tackle:40|Headbutt:70|Aerial Ace:60|Hyper Beam:150
+Volcanion|110|120|80|Flame Wheel:60|Energy Ball:90|Fire Blast:110|Brick Break:75
+Rowlet|55|55|68|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Bite:60
+Dartrix|75|75|78|Headbutt:70|Flamethrower:90|Hyper Beam:150|Bite:60
+Decidueye|107|75|78|Razor Leaf:55|Energy Ball:90|Ice Beam:90|Solar Beam:120
+Litten|65|40|45|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Rock Slide:75
+Torracat|85|50|65|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Incineroar|115|90|95|Ember:40|Flamethrower:90|Energy Ball:90|Fire Blast:110
+Popplio|54|54|50|Headbutt:70|Energy Ball:90|Hyper Beam:150|Shadow Ball:80
+Brionne|69|69|60|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Primarina|74|74|80|Fairy Wind:40|Draining Kiss:50|Bite:60|Moonblast:95
+Pikipek|75|30|35|Headbutt:70|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Trumbeak|85|50|55|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Toucannon|120|75|80|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Yungoos|70|30|48|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Shadow Ball:80
+Gumshoos|110|60|88|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Grubbin|62|45|47|Headbutt:70|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Charjabug|82|95|57|Ember:40|Flamethrower:90|Bite:60|Fire Blast:110
+Vikavolt|70|90|77|Thunder Shock:40|Spark:65|Flamethrower:90|Thunder:110
+Crabrawler|82|57|47|Psybeam:65|Psychic:90|Thunderbolt:90|Energy Ball:90
+Crabominable|132|77|97|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Oricorio|70|70|75|Tackle:40|Headbutt:70|Surf:90|Hyper Beam:150
+Cutiefly|45|40|40|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Slash:70
+Ribombee|55|60|60|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Rockruff|65|40|45|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Lycanroc|115|75|85|Tackle:40|Headbutt:70|Rock Slide:75|Hyper Beam:150
+Wishiwashi|140|130|45|Water Gun:40|Bubble Beam:65|Flamethrower:90|Hydro Pump:110
+Mareanie|53|62|50|Headbutt:70|Slash:70|Hyper Beam:150|Flamethrower:90
+Toxapex|63|152|50|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Mudbray|100|70|70|Water Gun:40|Surf:90|Flamethrower:90|Hydro Pump:110
+Mudsdale|125|100|100|Bubble Beam:65|Bulldoze:60|Hydro Pump:110|Surf:90
+Dewpider|40|52|38|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Araquanid|70|92|68|Bubble Beam:65|Aerial Ace:60|Hydro Pump:110|Rock Slide:75
+Fomantis|55|35|40|Tackle:40|Headbutt:70|Thunderbolt:90|Hyper Beam:150
+Lurantis|105|90|70|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Morelull|35|55|40|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Shiinotic|45|80|60|Tackle:40|Body Slam:85|Aerial Ace:60|Hyper Beam:150
+Salandit|44|40|48|Sludge:65|Sludge Bomb:90|Shadow Ball:80|Gunk Shot:120
+Salazzle|64|60|68|Ember:40|Flame Wheel:60|Rock Slide:75|Fire Blast:110
+Stufful|75|50|70|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Bewear|125|80|120|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Bounsweet|30|38|42|Tackle:40|Body Slam:85|Thunderbolt:90|Hyper Beam:150
+Steenee|40|48|52|Tackle:40|Body Slam:85|Brick Break:75|Hyper Beam:150
+Tsareena|120|98|72|Razor Leaf:55|Energy Ball:90|Ice Beam:90|Solar Beam:120
+Comfey|52|90|51|Fairy Wind:40|Draining Kiss:50|Shadow Ball:80|Moonblast:95
+Oranguru|60|80|90|Tackle:40|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Passimian|120|90|100|Tackle:40|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Wimpod|35|40|25|Headbutt:70|Flamethrower:90|Hyper Beam:150|Energy Ball:90
+Golisopod|125|140|75|Headbutt:70|Flamethrower:90|Hyper Beam:150|Surf:90
+Sandygast|55|80|55|Bulldoze:60|Earthquake:100|Hex:65|Energy Ball:90
+Palossand|75|110|85|Bulldoze:60|Earthquake:100|Hex:65|Bite:60
+Pyukumuku|60|130|55|Sludge:65|Sludge Bomb:90|Aerial Ace:60|Gunk Shot:120
+Type: Null|95|95|95|Headbutt:70|Body Slam:85|Slash:70|Hyper Beam:150
+Silvally|95|95|95|Headbutt:70|Body Slam:85|Bite:60|Hyper Beam:150
+Minior|100|60|60|Headbutt:70|Body Slam:85|Brick Break:75|Hyper Beam:150
+Komala|115|65|65|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Turtonator|78|135|60|Vine Whip:45|Energy Ball:90|Rock Slide:75|Solar Beam:120
+Togedemaru|98|63|65|Thunder Shock:40|Thunderbolt:90|Draining Kiss:50|Thunder:110
+Mimikyu|90|80|55|Fairy Wind:40|Dazzling Gleam:80|Flamethrower:90|Moonblast:95
+Bruxish|105|70|68|Tackle:40|Body Slam:85|Bite:60|Hyper Beam:150
+Drampa|60|85|78|Rock Throw:50|Rock Slide:75|Stone Edge:100|Flamethrower:90
+Dhelmise|131|100|70|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Jangmo-o|55|65|45|Dragon Claw:80|Dragon Pulse:85|Rock Slide:75|Outrage:120
+Hakamo-o|75|90|55|Tackle:40|Body Slam:85|Shadow Ball:80|Hyper Beam:150
+Kommo-o|110|125|75|Dragon Breath:60|Dragon Claw:80|Flamethrower:90|Outrage:120
+Tapu Koko|115|85|70|Headbutt:70|Ice Beam:90|Hyper Beam:150|Ice Beam:90
+Tapu Lele|85|75|70|Tackle:40|Body Slam:85|Rock Slide:75|Hyper Beam:150
+Tapu Bulu|130|115|70|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Surf:90
+Tapu Fini|75|115|70|Headbutt:70|Thunderbolt:90|Hyper Beam:150|Shadow Ball:80
+Cosmog|29|31|43|Tackle:40|Headbutt:70|Shadow Ball:80|Hyper Beam:150
+Cosmoem|29|131|43|Headbutt:70|Bite:60|Hyper Beam:150|Thunderbolt:90
+Solgaleo|137|107|137|Headbutt:70|Body Slam:85|Energy Ball:90|Hyper Beam:150
+Lunala|113|89|137|Headbutt:70|Aerial Ace:60|Hyper Beam:150|Energy Ball:90
+Nihilego|53|47|109|Poison Sting:15|Sludge:65|Bite:60|Gunk Shot:120
+Buzzwole|139|139|107|Headbutt:70|Body Slam:85|Flamethrower:90|Hyper Beam:150
+Pheromosa|137|37|71|Tackle:40|Body Slam:85|Ice Beam:90|Hyper Beam:150
+Xurkitree|89|71|83|Razor Leaf:55|Flamethrower:90|Solar Beam:120|Aerial Ace:60
+Celesteela|101|103|97|Iron Head:80|Rock Slide:75|Hyper Beam:150|Brick Break:75
+Kartana|181|131|59|Headbutt:70|Shadow Ball:80|Hyper Beam:150|Shadow Ball:80
+Guzzlord|101|53|223|Tackle:40|Body Slam:85|Surf:90|Hyper Beam:150
+Necrozma|107|101|97|Tackle:40|Headbutt:70|Bite:60|Hyper Beam:150
+Magearna|95|115|80|Headbutt:70|Body Slam:85|Ice Beam:90|Hyper Beam:150
